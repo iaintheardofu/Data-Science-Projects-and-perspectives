@@ -1,2 +1,2 @@
-# STA_6543
+# Data Projects
 Assignments
